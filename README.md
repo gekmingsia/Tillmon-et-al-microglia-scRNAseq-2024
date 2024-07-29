@@ -13,3 +13,6 @@ Code included makes use of the Seurat v5.0.3 R package for unsupervised clusteri
 ## Data
 Data required to replicate the analysis is available from the NCBI GEO database [GSE272813](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272813).
 
+## Acknowledgements
+This work was supported by NIH NINDS grant R01NS112389 and NIMH grant R21MH132078.
+
